@@ -29,7 +29,7 @@ Future extension: Add live webcam inference for real-time fingerspelling.
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/kduffuor/ASL-Hand-Gesture-Recognition-CNN.git
+   git clone https://github.com/kduffuor/asl-hand-gesture-recognition-cnn.git
    cd asl-hand-gesture-recognition-cnn
 
 2. **Install dependencies:**
@@ -38,7 +38,7 @@ Future extension: Add live webcam inference for real-time fingerspelling.
 
 3. Download the dataset:
 
-- Kaggle Dataset: [Sign Language Gesture Images Dataset](https://www.kaggle.com/datasets/ahmedkhanak1995/sign-language-gesture-images-dataset)
+- Kaggle Dataset: [Sign-Language-Gesture-Images-Dataset](https://www.kaggle.com/datasets/ahmedkhanak1995/sign-language-gesture-images-dataset)
 - Unzip and place the folder as Gesture Image Data in the project root
 
 4. **Run the notebook:**
